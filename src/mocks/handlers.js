@@ -1,4 +1,4 @@
-import { rest } from 'msw'
+import {rest} from 'msw'
 import Articles from './data'
 import credentials from './credentials';
 
